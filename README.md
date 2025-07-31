@@ -1,4 +1,4 @@
-![image](./images/b5346bd72b90094539430cd0dd3e14a.jpg)
+![image](./images/9266cedceb1dd25057273433338ada6.jpg)
 
 ## Hi there , I'm zty-king
 
