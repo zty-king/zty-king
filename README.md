@@ -11,9 +11,6 @@ I'm:
 - Using Python & C++.
 - Trying to break the stereotype of programmers.
 
-Email: 17786324919@163.com
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-king&show_icons=true&theme=tokyonight)
 
