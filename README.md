@@ -1,16 +1,23 @@
-## Hi there 👋
+![image](./images/b5346bd72b90094539430cd0dd3e14a.jpg)
 
-<!--
-**zty-king/zty-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there , I'm zty-king
 
-Here are some ideas to get you started:
+You can call me `Tianyu Zheng`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm:
+
+- A person who likes to be lively and entertaining.
+- Interested in high performance computing.
+- Using Python & C++.
+- Trying to break the stereotype of programmers.
+
+Email: 17786324919@163.com
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-king&show_icons=true&theme=tokyonight)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zty-king&theme=tokyo-night)
+
+
+![](profile-3d-contrib/profile-south-season-animate.svg)
