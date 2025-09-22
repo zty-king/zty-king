@@ -340,7 +340,7 @@
           <mxGeometry x="120" y="-90" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QxQH1etCJ_Zwl-zsI5nc-130" value="&lt;font&gt;&lt;b&gt;sequence_lenth&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=28;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-55" width="240" height="50" as="geometry" />
+          <mxGeometry x="-110" y="-55" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QxQH1etCJ_Zwl-zsI5nc-133" value="&lt;font&gt;&lt;b&gt;Z1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=1;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="580" y="-155" width="60" height="50" as="geometry" />
