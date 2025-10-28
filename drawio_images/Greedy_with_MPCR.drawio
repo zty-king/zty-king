@@ -158,10 +158,10 @@
           <mxGeometry x="460" y="410" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sr2MLGiufMxeYPRGqQTm-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=light-dark(#78f471, #1f2f1e);strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="510" y="350" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="350" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sr2MLGiufMxeYPRGqQTm-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="30" height="25" as="geometry" />
+          <mxGeometry x="490" y="235" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
