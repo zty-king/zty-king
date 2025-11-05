@@ -595,6 +595,18 @@
         <mxCell id="yyc_z6DQ4rY2Qo7Wiwtw-44" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;:Candidate token logits&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="496" y="1503" width="384" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="yyc_z6DQ4rY2Qo7Wiwtw-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-821" y="386" as="sourcePoint" />
+            <mxPoint x="1210" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyc_z6DQ4rY2Qo7Wiwtw-53" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-821" y="1476" as="sourcePoint" />
+            <mxPoint x="1204" y="1476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
