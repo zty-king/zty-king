@@ -28,8 +28,8 @@
         <mxCell id="jlfeXp_KANxqzDix2VN9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Greedy:&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="91.66" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="jlfeXp_KANxqzDix2VN9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MPCR:&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="91.66" y="480" as="geometry" />
+        <mxCell id="jlfeXp_KANxqzDix2VN9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DMPC-EW:&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="118.34" x="91.66" y="480" as="geometry" />
         </mxCell>
         <mxCell id="jlfeXp_KANxqzDix2VN9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;①The answer is A.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;②The answer is C.③Let me think again&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;④&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The answer is A and C.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="500" x="100" y="275" as="geometry" />
