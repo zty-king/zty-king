@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="m0SjIrcrt4HK8G1FeBw4">
-    <mxGraphModel dx="1727" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,11 +25,11 @@
         <mxCell id="jlfeXp_KANxqzDix2VN9-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="130" width="530" x="91.66" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="jlfeXp_KANxqzDix2VN9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Greedy:&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="91.66" y="245" as="geometry" />
+        <mxCell id="jlfeXp_KANxqzDix2VN9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(a) Greedy:&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="118.34" x="91.66" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="jlfeXp_KANxqzDix2VN9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DMPC-EW:&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="118.34" x="91.66" y="480" as="geometry" />
+        <mxCell id="jlfeXp_KANxqzDix2VN9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(c) DMPC-EW:&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="148.34" x="91.66" y="480" as="geometry" />
         </mxCell>
         <mxCell id="jlfeXp_KANxqzDix2VN9-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;①The answer is A.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;②The answer is C.③Let me think again&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;④&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The answer is A and C.&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="500" x="100" y="275" as="geometry" />
@@ -142,8 +142,8 @@
         <mxCell id="e5wzzTFpzZZYy1-B3-mK-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="130" width="530" x="90" y="335" as="geometry" />
         </mxCell>
-        <mxCell id="e5wzzTFpzZZYy1-B3-mK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Beam Search:&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="90" y="335" as="geometry" />
+        <mxCell id="e5wzzTFpzZZYy1-B3-mK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(b) Beam Search:&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="90" y="335" as="geometry" />
         </mxCell>
         <mxCell id="e5wzzTFpzZZYy1-B3-mK-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Path_0:&lt;/b&gt;①The answer is A.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;②The answer is C.③&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Let me think again&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;④&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;The answer is A and C.&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="510" x="100" y="375" as="geometry" />
