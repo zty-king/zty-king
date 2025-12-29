@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="mX5azJ5RVqOryZT0z9P2">
-    <mxGraphModel dx="7389" dy="1558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="7932" dy="1870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -615,8 +615,8 @@
         <mxCell id="3ro9Z56TPHZHxmUBMl8Q-176" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=28;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;:Frozen Contract&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="256" x="-3263.5" y="1391.99" as="geometry" />
         </mxCell>
-        <mxCell id="3ro9Z56TPHZHxmUBMl8Q-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;(b) Dynamic Contrast Factor Calibration&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29.53" width="627.5" x="-4485" y="1326" as="geometry" />
+        <mxCell id="3ro9Z56TPHZHxmUBMl8Q-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;(b) Dynamic Contrastive Weight Adjustment&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29.53" width="681" x="-4514" y="1326" as="geometry" />
         </mxCell>
         <mxCell id="N2GXuOQjOzqRw7aB9THk-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#ff0000, #ededed);fillColor=light-dark(#f8ebce, #883f27);gradientDirection=east;rotation=90;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="44" width="163" x="-4001" y="408" as="geometry" />
