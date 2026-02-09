@@ -327,7 +327,7 @@
           <mxGeometry height="30" width="60" x="1146.75" y="775" as="geometry" />
         </mxCell>
         <mxCell id="ZJp4KnaGtYxG0CoSz0ox-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
-          <mxGeometry height="110" width="275" x="647.5" y="720" as="geometry" />
+          <mxGeometry height="218" width="275" x="647.5" y="720" as="geometry" />
         </mxCell>
         <mxCell id="ZJp4KnaGtYxG0CoSz0ox-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;" value="&lt;span&gt;&lt;b&gt;for item in grouped_read_items&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="604" y="720" as="geometry" />
