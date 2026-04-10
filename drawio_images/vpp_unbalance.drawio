@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.6.4">
   <diagram name="第 1 页" id="DofL4Lrc1XImH2NHhHpD">
-    <mxGraphModel dx="4217" dy="3293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3344" dy="2596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22998,6 +22998,15 @@
         </mxCell>
         <mxCell id="8IjhSCYbDNkJnFNl7cag-7138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Chunk 2&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="286" x="2554" y="11404" as="geometry" />
+        </mxCell>
+        <mxCell id="8IjhSCYbDNkJnFNl7cag-7142" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=113;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 72px;&quot;&gt;fill&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;pp-half-insert&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;当前chunk的forward补齐&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="446" width="727" x="715" y="16980" as="geometry" />
+        </mxCell>
+        <mxCell id="8IjhSCYbDNkJnFNl7cag-7143" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=113;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;span style=&quot;font-size: 72px;&quot;&gt;insert&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 72px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;需要插入不属于当前chunk的forwrad&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;1. last forward&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;2. remain forward&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="573" width="727" x="113" y="16853" as="geometry" />
+        </mxCell>
+        <mxCell id="8IjhSCYbDNkJnFNl7cag-7144" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=113;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 72px;&quot;&gt;half&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 72px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;当前chunk的前一半的forward&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="446" width="727" x="-503" y="16980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
